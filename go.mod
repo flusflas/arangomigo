@@ -1,4 +1,4 @@
-module github.com/deusdat/arangomigo
+module github.com/flusflas/arangomigo
 
 require (
 	github.com/arangodb/go-driver v1.4.0
